@@ -42,12 +42,12 @@ Ensure the following are installed in your environment:
 
 3. **Make the script executable**:
    ```bash
-   chmod +x gmx_analyze.sh
+   chmod +x gmx_analysis.sh
    ```
 
 4. **Run the script**:
    ```bash
-   ./gmx_analyze.sh
+   ./gmx_analysis.sh
    ```
 
 5. **Expected Output**:
