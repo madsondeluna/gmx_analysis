@@ -35,7 +35,7 @@ Ensure the following are installed in your environment:
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/madsondeluna/gmx_analysis.git
-   cd repository-name
+   cd gmx_analysis
    ```
 
 2. **Ensure that the required simulation files are available** in the same directory.
