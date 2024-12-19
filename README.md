@@ -34,7 +34,7 @@ Ensure the following are installed in your environment:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone [https://github.com/your-username/repository-name.git](https://github.com/madsondeluna/gmx_analysis.git)
    cd repository-name
    ```
 
