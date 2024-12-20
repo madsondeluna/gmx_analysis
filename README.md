@@ -42,7 +42,7 @@ Ensure the following are installed in your environment:
 
 3. **Make the script executable**:
    ```bash
-   chmod +x gmx_analysis.sh
+   chmod a+x gmx_analysis.sh
    ```
 
 4. **Run the script**:
